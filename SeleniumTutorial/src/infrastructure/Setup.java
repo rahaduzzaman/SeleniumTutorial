@@ -11,7 +11,7 @@ public class Setup {
 		WebDriver driver = null;
 		
 		try {
-			System.setProperty("webdriver.chrome.driver","C:\\drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver","D:\\QAT\\selenium-drivers\\chromedriver.exe");
 			driver = new ChromeDriver();
 			
 			driver.get(url);

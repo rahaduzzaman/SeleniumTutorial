@@ -1,7 +1,6 @@
-/data/
 /flows/
 /infrastructure/
+/pageFlows/
 /pageObjects/
 /testcases/
 /utils/
-/pageFlows/
